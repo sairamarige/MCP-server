@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "uv": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp",
+        "mcp",
+        "run",
+        "calculator_server.py"
+      ],
+      "cwd": "C:\\Users\\saira\\Downloads\\projects of ai\\files"
+    }
+  }
+}
